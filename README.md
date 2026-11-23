@@ -14,7 +14,7 @@ AI Engineer based in Menoufia, Egypt. I build end-to-end AI systems across machi
 
 ### [Flame in Freefall](https://github.com/YoussefHegazy74/flame-in-freefall)
 
-A data platform for NASA microgravity combustion research, built for the NASA Space Apps Challenge 2026. It includes a verified ETL pipeline, a read-only FastAPI and DuckDB API, and a Next.js interface for exploring spacecraft fire-safety data.
+A data platform for NASA microgravity combustion research, built for the NASA Space Apps Challenge 2026. It includes an ETL pipeline with checksum verification, a read-only FastAPI and DuckDB API, and a Next.js interface for exploring spacecraft fire-safety data.
 
 ### [Basira](https://github.com/YoussefHegazy74/basira-ai)
 
